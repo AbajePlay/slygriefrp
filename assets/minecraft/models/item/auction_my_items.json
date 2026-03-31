@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:gui/auction_my_items"
+    "layer0": "minecraft:item/auction_my_items"
   }
 }

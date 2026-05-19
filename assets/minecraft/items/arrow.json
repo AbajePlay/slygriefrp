@@ -343,6 +343,41 @@
           "type": "minecraft:model",
           "model": "minecraft:item/virt_icon"
         }
+      },
+      {
+        "threshold": 49.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/prize_page_1"
+        }
+      },
+      {
+        "threshold": 50.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/prize_page_2"
+        }
+      },
+      {
+        "threshold": 51.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/prize_page_3"
+        }
+      },
+      {
+        "threshold": 52.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/prize_page_4"
+        }
+      },
+      {
+        "threshold": 53.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/prize_page_5"
+        }
       }
     ]
   }

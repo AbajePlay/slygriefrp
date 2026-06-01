@@ -1117,6 +1117,24 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "minecraft:font/boss_saturn.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/boss_fidshik.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "": 1,
